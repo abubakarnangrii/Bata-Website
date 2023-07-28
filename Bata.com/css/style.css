@@ -1,0 +1,269 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo_img{
+    height: 35px;
+    margin: -5px 0 0 12px;
+}
+#feature_text{
+    background-color: #f2f2f2;
+    color: #282828;
+    font-family: Montserrat;
+    padding: 0px 20px;
+    font-size: 22pt;
+    height: 68px;
+}
+#brand_text{
+     background-color: #ffffff;
+    color: #282828;
+    font-family: Montserrat;
+    font-size: 15pt;
+    height: 28px;
+    margin: 0 0 35px 0;
+    
+}
+#Brands{
+    background-color: blue;
+    color: #282828;
+    height: 214px;
+    
+    
+}
+#sign_div{
+    height: 84px;
+    color: #ffffff;
+    background-color: #333333;
+}
+#signup_text{
+   padding: 30px 0 0 0;
+    font-family: Montserrat;
+    font-size: 13pt;
+    color: #ffffff;
+}
+#mce-EMAIL {
+    float: left;
+    display: inline-block;
+    width: 60%;
+    border-radius: 1px;
+    border: 1px solid #ffffff;
+    background: transparent;
+    color: #ffffff;
+    margin: 20px;
+    height: 44px;
+    line-height: 44px;
+    padding: 0px 10px;
+}
+#btn_join{
+     background: #ffffff;
+    color: black;
+    font-size: 13px;
+    border-radius: 5px;
+     font-family: Montserrat;
+    margin: 20px;
+    width: 12%;
+    padding: 0 15px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    cursor: pointer;;
+    height: 44px;
+    line-height: 44px;
+    display: inline-block;
+}
+.cc-services-link{
+    list-style-type: none;
+}
+
+#item1{
+    margin: 20px auto;
+    text-decoration: none;
+    width: 100px;
+    height: 100px;
+    color: black;
+}
+.icon-item-label{
+      color: black;  
+    text-decoration: none;
+}
+.cc-footer-services .cc-services-item {
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    padding: 0 0.9375rem;
+    text-align: center;
+    
+    text-transform: uppercase;
+  
+} 
+
+
+#footer_data{
+    
+    margin: 20px 0 0 130px;
+    font-family: Montserrat;
+}
+#imc{
+    color: #000000;+
+    text-decoration: none;
+}
+#imc:hover{
+    color: red;
+    text-decoration: none;
+}
+
+#line_bata{
+    margin: 0 150px;
+    height: 2px;
+    background-color: whitesmoke;
+}
+#bata_de{
+    
+    margin: 20px 0 0 130px;
+    font-family: Montserrat Regular;
+    
+}
+#line{
+    width: 250px;
+    height: 2px; 
+    background-color: whitesmoke;
+}
+  
+#l_item{
+    float: left;
+    margin: 0 8px;
+}
+#readmore{
+    color: red;
+}   
+#copy_right{
+    color: white;
+    padding: 4px;
+    font-family: Montserrat Regular;
+    font-size: 11pt;
+}
+
+
+
+ .owl-prev {
+      position: absolute;
+      top: 50%;
+      left: 10px;
+      transform: translateY(-50%);
+      font-size: 30px;
+      background: gray;
+     color: black;
+      width: 25px;
+     height: 40px;
+      z-index: 1;
+     border-radius: 8px;
+    }
+    .owl-next {
+      position: absolute;
+      top: 50%;
+      right: 20px;
+      transform: translateY(-50%);
+      font-size: 30px;
+       background: gray;
+     color: black;
+        width: 25px;
+          height: 40px;
+      z-index: 1;
+          border-radius: 8px;
+    }
+    .owl-prev:hover, .owl-next:hover {
+      color: red;
+    }
+
+
+
+
+
+/* About Us Web page Design */
+#about_us_detais{
+    padding: 40px 0 0 130px;
+    color: #333333;
+    font-family: Montserrat;
+    font-size: 14pt;
+}
+
+/* Men Collection Web page Design */
+#header_men{
+    height: 70px;
+    background-color: #e2e2e2;
+    text-decoration: none;
+    color: black;
+    padding: 40px 0 0 20px;
+}
+#Page_title{
+    font-size: 24pt;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+#header_men p a{
+    color: black;
+    text-decoration: none;
+}
+#header_men p a:hover{
+    color: black;
+    text-decoration: none;
+}
+#backcolor_div{
+    background: #efefef;
+}
+#items_container_shoes{
+    margin-top: 50px;
+    margin-bottom: 100px;    
+}
+#Row_space_shoe{
+    margin-top: 30px;
+}
+#Bata_pakistan_text{
+    color: #95a0a0;
+}
+
+
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
+
+
+
+
+
+.gradient-custom-3 {
+/* fallback for old browsers */
+background: #84fab0;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+}
+.gradient-custom-4 {
+/* fallback for old browsers */
+background: #84fab0;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+}
+
+    
+
